@@ -82,7 +82,8 @@ NLP, Deep Learning, Pandas, Scikit-learn, TensorFlow, MLOps
 
 ### ✍️ Profile Summary (IMPORTANT)
 - Use **all 4,000 characters**
-  Data Science Engineer with strong foundation in Machine Learning, Data Analysis, and Statistical Modeling, with hands-on experience in building end-to-end data-driven solutions using Python, SQL, and modern analytics tools. Skilled in working with large datasets, performing exploratory data analysis (EDA), feature engineering, and developing predictive models for real-world business problems.
+
+Data Science Engineer with strong foundation in Machine Learning, Data Analysis, and Statistical Modeling, with hands-on experience in building end-to-end data-driven solutions using Python, SQL, and modern analytics tools. Skilled in working with large datasets, performing exploratory data analysis (EDA), feature engineering, and developing predictive models for real-world business problems.
 
 Proficient in Python libraries including Pandas, NumPy, Scikit-learn for data preprocessing, model building, and evaluation. Experienced in applying Machine Learning algorithms such as Regression, Classification, Clustering, and Ensemble techniques. Strong understanding of Supervised and Unsupervised Learning, model tuning, cross-validation, and performance optimization.
 
