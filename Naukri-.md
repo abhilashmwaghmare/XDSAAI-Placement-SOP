@@ -82,6 +82,26 @@ NLP, Deep Learning, Pandas, Scikit-learn, TensorFlow, MLOps
 
 ### ✍️ Profile Summary (IMPORTANT)
 - Use **all 4,000 characters**
+  Data Science Engineer with strong foundation in Machine Learning, Data Analysis, and Statistical Modeling, with hands-on experience in building end-to-end data-driven solutions using Python, SQL, and modern analytics tools. Skilled in working with large datasets, performing exploratory data analysis (EDA), feature engineering, and developing predictive models for real-world business problems.
+
+Proficient in Python libraries including Pandas, NumPy, Scikit-learn for data preprocessing, model building, and evaluation. Experienced in applying Machine Learning algorithms such as Regression, Classification, Clustering, and Ensemble techniques. Strong understanding of Supervised and Unsupervised Learning, model tuning, cross-validation, and performance optimization.
+
+Hands-on experience in Deep Learning concepts using TensorFlow and Keras, including neural networks for structured and unstructured data. Exposure to Natural Language Processing (NLP) techniques such as text preprocessing, tokenization, sentiment analysis, and working with text-based datasets.
+
+Skilled in SQL for data extraction, transformation, and analysis, including writing optimized queries, joins, aggregations, and working with relational databases. Experience with data visualization tools like Tableau and Power BI to create dashboards, reports, and business insights for stakeholders.
+
+Good understanding of MLOps concepts including model deployment, versioning, and monitoring. Experience in deploying machine learning models using Flask and Streamlit, and basic knowledge of cloud platforms such as AWS (EC2, S3) for hosting applications and managing data pipelines.
+
+Worked on projects involving customer segmentation, recommendation systems, churn prediction, and sales analysis. Applied techniques such as RFM analysis, K-Means clustering, PCA, and collaborative filtering for solving business problems. Experience in A/B testing and statistical analysis for decision-making.
+
+Familiar with data cleaning, data preprocessing, handling missing values, feature scaling, encoding techniques, and building automated data pipelines. Strong problem-solving ability with focus on data-driven decision making and business impact.
+
+Experience using tools such as Jupyter Notebook, Git, and Excel for analysis, version control, and reporting. Understanding of Agile methodologies and collaborative development environments.
+
+Strong communication skills with ability to present insights, visualize data effectively, and explain technical concepts in a clear and structured manner. Ability to work in team environments and contribute to analytics and data science projects efficiently.
+
+Looking for opportunities as Data Science Engineer / Data Analyst / Machine Learning Engineer to apply analytical skills, build scalable solutions, and contribute to business growth using data-driven approaches.
+
 - Include:
   - Skills
   - Tools
