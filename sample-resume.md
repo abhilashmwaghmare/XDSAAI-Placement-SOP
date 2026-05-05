@@ -21,7 +21,7 @@ Eager to contribute to data-driven teams focused on analytics, predictive modell
 ## 💼 Internship Experience
 
 ### Data Science Engineer Intern  
-**Analytix Solutions Pvt Ltd, Pune — Data & AI Division**  
+**Hisan labs Pvt Ltd, Pune — Data & AI Division**  
 📅 Jan 2024 – Jun 2024  
 
 - Performed end-to-end EDA on **500K+ retail dataset** using Pandas & NumPy  
