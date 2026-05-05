@@ -46,7 +46,7 @@ NLP, Deep Learning, Pandas, Scikit-learn, TensorFlow, MLOps
 
 ### 💼 Employment Details
 - Add Internship:
-  - *Analytix Solutions / Relevant DS Company*
+  - *Hisan Labs pvt ltd / Relevant DS Company*
   - Duration: **Max 9 months**
 
 ---
