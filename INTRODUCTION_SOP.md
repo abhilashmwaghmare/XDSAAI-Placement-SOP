@@ -1,4 +1,3 @@
-Now I have all the data. Let me create the markdown document for you:
 
 ---
 
