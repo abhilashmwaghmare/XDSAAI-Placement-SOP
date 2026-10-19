@@ -1,5 +1,7 @@
 (()=>{'use strict';
 const $=s=>document.querySelector(s),$$=s=>[...document.querySelectorAll(s)];
+const visualDocs={'INTRODUCTION_SOP.md':'INTRODUCTION_SOP.html','Sample-Introduction-SOP.md':'Sample-Introduction-SOP.html','Resume.md':'Resume.html','LinkedIn.md':'LinkedIn.html','Naukri-.md':'Naukri-.html','DOS-AND-DONTS.md':'DOS-AND-DONTS.html','RESUME-TEMPLATES.md':'RESUME-TEMPLATES.html','PROFESSIONAL-INTRODUCTION-TEMPLATES.md':'PROFESSIONAL-INTRODUCTION-TEMPLATES.html','sample-resume.md':'sample-resume.html','Experience-resume.md':'Experience-resume.html'};
+$$('a[href]').forEach(a=>{const key=a.getAttribute('href')?.split('/').pop();if(key&&visualDocs[key])a.setAttribute('href','./'+visualDocs[key]);});
 const search=$('#resourceSearch'),cards=$$('#resourceGrid .resource-card'),filters=$$('.filter'),empty=$('#emptyState');let filter='all';
 function refresh(){const q=(search?.value||'').trim().toLowerCase();let count=0;cards.forEach(card=>{const cats=(card.dataset.category||'').split(/\s+/);const okFilter=filter==='all'||cats.includes(filter);const okQuery=!q||(card.dataset.search+' '+card.textContent).toLowerCase().includes(q);const show=okFilter&&okQuery;card.hidden=!show;if(show)count++;});if(empty)empty.hidden=count!==0;}
 filters.forEach(btn=>btn.addEventListener('click',()=>{filter=btn.dataset.filter;filters.forEach(b=>b.classList.toggle('active',b===btn));refresh();}));search?.addEventListener('input',refresh);
