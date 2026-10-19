@@ -1,43 +1,25 @@
 # CloudBlitz — XDSAAI Placement SOP Library
 
-A polished, mobile-friendly reference library for the XDSAAI Placement Readiness Program.
+A responsive, professionally organized reference library for XDSAAI placement readiness.
 
-## Included resources
-
+## Resources included
 - Introduction SOP
-- Sample introductions for fresher and experienced candidates
+- Sample introductions (fresher and experienced)
 - Resume preparation SOP
 - LinkedIn profile SOP
 - Naukri profile SOP
 - Sample fresher/intern resume
 - Sample experienced resume
 - Existing PDF resume reference
-- A visual index page with search, filters and personal readiness checklist
 
-## GitHub Pages
+The website provides search, resource filters, mobile navigation, visual learning elements and a personal readiness checklist saved locally in the browser.
 
-This is a static website. In the repository, open **Settings → Pages** and select the published source as required by your setup. If using GitHub Actions, configure a Pages workflow to deploy the repository root. The entry page is `index.html`.
+## Publish with GitHub Pages
+Open **Settings → Pages** and confirm the repository's publishing source. This is a static site with `index.html` at the repository root and an `assets/` directory for CSS and JavaScript. The `.nojekyll` file disables Jekyll processing.
 
-## Project structure
+## Integrity and privacy
+Resume examples may contain illustrative people, employers, dates, skills and achievement metrics. Replace sample information with genuine candidate details. Do not copy another person's personal contact information into a resume. Always verify platform settings against the current platform interface and placement team guidelines.
 
-```
-.
-├── index.html
-├── assets/
-│   ├── styles.css
-│   └── app.js
-├── INTRODUCTION_SOP.md
-├── Sample-Introduction-SOP.md
-├── Resume.md
-├── LinkedIn.md
-├── Naukri-.md
-├── sample-resume.md
-├── Experience-resume.md
-└── Amit_kumar.pdf
-```
-
-## Guidance and data integrity
-
-Examples are illustrative; candidates must replace details with their own truthful experience and metrics. Some existing SOPs include platform-specific suggestions such as profile fields, notice periods, salaries, skills and profile completeness targets. Treat these as repository guidance to be validated against current platform rules and each candidate's actual circumstances—not universal guarantees or instructions to misrepresent details. Do not copy another person's personal data into a public resume.
+**Scope note:** This library excludes training schedules and focuses on SOPs, resumes, profile preparation and associated visual references.
 
 CloudBlitz · XDSAAI Placement Readiness Program
